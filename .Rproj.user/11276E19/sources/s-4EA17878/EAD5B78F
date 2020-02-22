@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581537285595.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EAD5B78F",
+    "lastKnownWriteTime" : 1582337318,
+    "last_content_update" : 1582337318116,
+    "path" : "~/Downloads/Rpkg/nlph/R/netGraph.R",
+    "project_path" : "R/netGraph.R",
+    "properties" : {
+        "cursorPosition" : "51,0",
+        "scrollLine" : "37"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582286077944.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22094B0B",
+    "lastKnownWriteTime" : 1582286188,
+    "last_content_update" : 1582286188242,
+    "path" : "~/Downloads/Rpkg/nlph/R/sumMFS.R",
+    "project_path" : "R/sumMFS.R",
+    "properties" : {
+        "cursorPosition" : "46,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

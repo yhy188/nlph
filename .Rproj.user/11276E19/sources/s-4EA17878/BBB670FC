@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581536238917.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BBB670FC",
+    "lastKnownWriteTime" : 1581546282,
+    "last_content_update" : 1581546282474,
+    "path" : "~/Downloads/Rpkg/nlph/man/nlph.Rmd",
+    "project_path" : "man/nlph.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,19",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,8 @@
+"0","require(nCov2019)
+"
+"2","Loading required package: nCov2019
+"
+"2","Registered S3 method overwritten by 'dplyr':
+  method           from
+  print.rowwise_df     
+"

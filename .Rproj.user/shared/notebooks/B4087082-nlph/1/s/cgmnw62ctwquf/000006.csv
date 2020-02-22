@@ -1,0 +1,7 @@
+"0","install_github(""beoutbreakprepared/nCoV2019"")
+"
+"2","Downloading GitHub repo beoutbreakprepared/nCoV2019@master
+"
+"2","Error: Failed to install 'nCov2019' from GitHub:
+  Does not appear to be an R package (no DESCRIPTION)
+"

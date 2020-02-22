@@ -1,0 +1,40 @@
+key words for coronavirus (all linked by OR)
+
+coronavirus China
+cornavirus outbreak
+corona virus
+Wuhan coronavirus 
+ChinaPneumonia 
+WuhanSARS
+coronavirus
+novel coronavirus
+2019-nCoV
+
+tweets
+	"2019-01-01"
+	"2020-01-24"
+ÏÂÎç17£º30
+	"2020-01-25"
+
+coronavirus China
+		344
+	
+cornavirus outbreak
+		154
+	
+corona virus
+		645
+	
+Wuhan coronavirus 		148
+	
+ChinaPneumonia 
+		70
+	
+WuhanSARS
+		9	
+novel coronavirus
+		19
+	
+2019-nCoV
+		13
+	

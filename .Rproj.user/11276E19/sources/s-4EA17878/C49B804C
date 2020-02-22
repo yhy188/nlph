@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581537322154.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C49B804C",
+    "lastKnownWriteTime" : 1581400854,
+    "last_content_update" : 1582284373655,
+    "path" : "~/Downloads/Rpkg/nlph/R/EMO.R",
+    "project_path" : "R/EMO.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "7"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

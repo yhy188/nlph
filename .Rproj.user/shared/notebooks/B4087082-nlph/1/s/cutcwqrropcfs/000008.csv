@@ -1,0 +1,6 @@
+"0","x = get_nCov2019()
+"
+"2","Error: lexical error: invalid character inside string.
+          "":{\""confirm\"":0,\""suspect\"":0  checking for empty or unneed
+                     (right here) ------^
+"

@@ -1,0 +1,5 @@
+"0","install_github(""GuangchuangYu/nCov2019"")
+"
+"2","Skipping install of 'nCov2019' from a github remote, the SHA1 (58c07520) has not changed since last install.
+  Use `force = TRUE` to force installation
+"

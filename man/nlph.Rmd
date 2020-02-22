@@ -1,0 +1,48 @@
+---
+title: "NLPh"
+author: "haiyan yu"
+date: "2/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# International attributes on the 2019 Novel Coronavirus with sentiment analysis of Tiwtter Data
+#https://github.com/GuangchuangYu/nCov2019
+Kevin Haiyan Yu, Lu Yang, Ping Yu, Mingyue Gao.
+
+##Natural langugage processing for EHR
+
+
+
+##gethub
+
+##Oxford zoomlogy
+
+```{r}
+library(devtools)
+install_github("beoutbreakprepared/nCoV2019")
+
+require(nCov2019)
+x = get_nCov2019()
+plot(x)
+
+
+```
+
+
+##Wuhan-Southen medical
+```{r}
+library(devtools)
+install_github("GuangchuangYu/nCov2019",force = TRUE)
+
+require(nCov2019)
+x = get_nCov2019()
+plot(x)
+
+
+```
+
+
